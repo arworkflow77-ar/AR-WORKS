@@ -1,0 +1,7 @@
+[user]
+	name = arworkflow77-ar
+	email = arworkflow77-ar@users.noreply.github.com
+[credential]
+	helper = store
+[init]
+	defaultBranch = main

@@ -8,10 +8,13 @@ cd "$ROOT" || exit 1
 dir="${1:-}"
 if [ -z "$dir" ]; then
   echo "Usage: ./restore.sh <folder>"
-  echo "Heavy folders (.heavy): $(grep -v '^#' .heavy 2>/dev/null | grep -v '^[[:space:]]*$' | tr '\n' ' ')"
+  echo "Heavy folders (.heavy): $(sed 's/#.*//; s/^[[:space:]]*//; s/[[:space:]]*$//; /^$/d' .heavy 2>/dev/null | tr '\n' ' ')"
   exit 1
 fi
 dir="${dir%/}"
+case "$dir" in
+  "."|".."|".."*|"/"|"/"*|"~"*|*"/.."|*"/../"*) echo "restore.sh: invalid path '$dir'" >&2; exit 1;;
+esac
 git ls-files -z -- "$dir" | git update-index -q --no-skip-worktree -z --stdin
 if git checkout -q HEAD -- "$dir"; then
   echo "Restored $dir ($(git ls-files -- "$dir" | wc -l) files). Run ./sync.sh to re-evict."
