@@ -14,10 +14,10 @@
 2. ✅ Deep analysis (10 vids · 5 transcripts · 3 in-video visual analyses)
 3. ✅ Research report delivered
 4. ✅ Title picked: "When Did Humans Start Kissing? And Why?"
-5. ⏳ Script length (awaiting user)
-6. ⬜ Script
-7. ⬜ Animation style + aspect + resolution
-8. ⬜ Shot list → images + thumbnail
+5. ✅ Script length: 10 min
+6. ✅ Script written (SCRIPT.md + SCRIPT-clean.md, 3,750 words narration)
+7. ✅ Style: 2D animated (channel-style) · 16:9 · 2k · cadence: transcript beats
+8. ⏳ Shot list (awaiting user transcript) → images + thumbnail
 9. ⬜ Branch: animate vs stills
 10. ⬜ Assembly
 11. ⬜ Preview → render
