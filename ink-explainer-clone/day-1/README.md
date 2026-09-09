@@ -17,7 +17,7 @@
 5. ✅ Script length: 10 min
 6. ✅ Script written (SCRIPT.md + SCRIPT-clean.md, 3,750 words narration)
 7. ✅ Style: 2D animated (channel-style) · 16:9 · 2k · cadence: transcript beats
-8. ⏳ Shot list (awaiting user transcript) → images + thumbnail
+8. ✅ Shot list built: SHOTLIST.md — 237 shots, ~5s cadence, M-SS timestamp naming, locked prefix + re-roll policy (awaiting approval)
 9. ⬜ Branch: animate vs stills
 10. ⬜ Assembly
 11. ⬜ Preview → render
