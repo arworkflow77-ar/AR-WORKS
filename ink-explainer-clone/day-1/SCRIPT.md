@@ -10,7 +10,7 @@ You probably did it this morning. Or last night. You probably didn't think about
 
 [ON-SCREEN: RIGHT NOW]
 
-And then it was over, and you went back to your day, and the moment was gone. But here's what you just did without thinking about it. You performed an act that a Babylonian scribe once had to invent a verb for, that a Roman needed three different words to describe, that an Indian scholar spent an entire chapter of a two-thousand-year-old book cataloguing. And none of them were the beginning either. Because the kiss is older than writing, older than cities, older than us.
+And then it was over, and you went back to your day, and the moment was gone. But here's what you just did without thinking about it. You performed an act that a Babylonian scribe once had to invent a verb for, that a Roman needed three different words to describe, that a Roman poet wrote a poem about just to count it. And none of them were the beginning either. Because the kiss is older than writing, older than cities, older than us.
 
 [ON-SCREEN: 4,500 YEARS AGO — NOT THE BEGINNING]
 
@@ -68,29 +68,29 @@ And the second find is stranger. It's a legal document from the city of Larsa. A
 
 [ON-SCREEN: LARSA · "HE SHALL NOT KISS MY LIPS"]
 
-And then there's the dark side, because the tablets record that too. Mesopotamian medical texts describe a disease called bu'shanu — sores and vesicles around the mouth and throat, symptoms that match herpes simplex virus 1, the cold-sore virus, which today infects most of humanity and spreads, among other ways, by kissing. Arbøll and Rasmussen are careful here — you can't diagnose a 4,000-year-old disease from a clay tablet. But the parallel is hard to ignore. The kiss had a cost. And here's the twist their research really lands. For decades, the standard story was that kissing was invented once — in South Asia, around 1500 BC, and from there it spread across the world, and somewhere along that journey it also spread a herpes strain. The Mesopotamian tablets, a thousand years older, destroy that story. Kissing wasn't invented in one place and exported. It appears in Mesopotamia and Egypt and India in parallel — the same act, arrived at independently, in cultures that had no contact. Which means the kiss wasn't a trend. It was something cultures kept inventing because it worked.
+And then there's the dark side, because the tablets record that too. Mesopotamian medical texts describe a disease called bu'shanu — sores and vesicles around the mouth and throat, symptoms that match herpes simplex virus 1, the cold-sore virus, which today infects most of humanity and spreads, among other ways, by kissing. Arbøll and Rasmussen are careful here — you can't diagnose a 4,000-year-old disease from a clay tablet. But the parallel is hard to ignore. The kiss had a cost. And here's the twist their research really lands. For decades, the standard story was that kissing was invented once — in a single bronze-age civilization, around 1500 BC, and from there it spread across the world, and somewhere along that journey it also spread a herpes strain. The Mesopotamian tablets, a thousand years older, destroy that story. Kissing wasn't invented in one place and exported. It appears in Mesopotamia, Egypt, and the Mediterranean in parallel — the same act, arrived at independently, in cultures that had no contact. Which means the kiss wasn't a trend. It was something cultures kept inventing because it worked.
 
 [ON-SCREEN: NOT ONE ORIGIN. MANY.]
 
-So the written record gives us the kiss as law, as poetry, as disease. Now watch how fast it becomes a science. Because two civilizations, in two very different corners of the world, both decided the kiss deserved its own vocabulary.
+So the written record gives us the kiss as law, as poetry, as disease. Now watch how fast it becomes a science. Because one civilization decided the kiss deserved a vocabulary of its own.
 
 ---
 
 ## PART 3 — THE KISS BECOMES A SYSTEM
 
-Start in India. Around 1,800 years ago, the scholar Vatsyayana composed the Kama Sutra — and you probably know it as a book of positions, but that's the cheap summary. It's really a manual of civilized life, and it contains an entire chapter devoted to kissing. Not a paragraph. A chapter.
-
-[ON-SCREEN: KAMA SUTRA · 3rd CENTURY CE]
-
-Vatsyayana lists the places a kiss can go — the forehead, the eyes, the cheeks, the throat, the lips, the interior of the mouth — and notes, with academic detachment, that the people of the Lat country additionally kiss the joints of the thighs, the arms, and the navel. He classifies the kisses of a young woman into three types. The nominal kiss — she touches her mouth to her lover's but does nothing else. The throbbing kiss — she moves her lower lip against his, but not yet the upper. And the touching kiss — she touches his lip with her tongue, eyes closed, hands resting on his. Then there are the four technical kisses: straight, bent, turned, pressed. The straight kiss is lips meeting lips directly. The bent kiss is two heads inclining toward each other. The turned kiss is one lover lifting the other's face by the chin. The pressed kiss is the lower lip caught and squeezed. This is a taxonomy. A civilization looking at a reflex and deciding it deserves precise, teachable, named forms.
-
-[ON-SCREEN: NOMINAL · THROBBING · TOUCHING]
-
-Now travel west, a few centuries later, to Rome. The Romans had a word problem. Latin had one word for a kiss, and reality kept demanding more. So they ended up with three. Osculum — the respectful kiss, given on the cheek, between friends, family, officials. Basium — the kiss of affection on the lips. And savium — the lover's kiss, the deep one, the one that belonged in bedrooms and poems. A Roman playwright named Plautus has a character beg for "savia super savia" — kiss upon kiss upon kiss. When a language splits one act into three words, the act has become load-bearing. It holds different weights in different rooms. A Roman politician kissing a colleague's cheek at the forum and a Roman poet kissing a lover at midnight were, linguistically, doing two different things.
+Start in Rome. The Romans had a word problem. Latin had one word for a kiss, and reality kept demanding more. So they ended up with three. Osculum — the respectful kiss, given on the cheek, between friends, family, officials. Basium — the kiss of affection on the lips. And savium — the lover's kiss, the deep one, the one that belonged in bedrooms and poems. A Roman playwright named Plautus has a character beg for "savia super savia" — kiss upon kiss upon kiss. When a language splits one act into three words, the act has become load-bearing. It holds different weights in different rooms. A Roman politician kissing a colleague's cheek at the forum and a Roman poet kissing a lover at midnight were, linguistically, doing two different things.
 
 [ON-SCREEN: OSCULUM | BASIUM | SAVIUM]
 
-So now we have the kiss as ape politics, the kiss as clay-tablet law, the kiss as Indian taxonomy, the kiss as Roman vocabulary. And at this point, you might be thinking — fine, it's ancient, it's everywhere, it's universal, case closed. But that's exactly the moment the story turns. Because there's a study. And it found something nobody expected.
+But the Romans didn't stop at words. They wrote instruction manuals. Around the year 2 BC, the poet Ovid published the Ars Amatoria — the Art of Love. Three books. A full manual of seduction that reads like a textbook, and it is packed with kissing. When to take a kiss. How to take it. How to make sure she remembers it. A few years later, the emperor Augustus banished Ovid to the far edge of the empire — and some historians still argue that very manual was part of the reason.
+
+[ON-SCREEN: ARS AMATORIA · 2 BCE]
+
+A civilization writing step-by-step instructions for a kiss is a civilization that has thought about the kiss more than you ever will. And then there's Catullus. Around the same century, the poet Catullus wrote the most famous kiss poem in Western history. Five lines. Basically math. Give me a thousand kisses, he tells his lover. Then a hundred. Then another thousand. Then a second hundred. Then, when we've kissed many thousands, let us lose count — so that no one can envy us, knowing how many kisses there were.
+
+[ON-SCREEN: BASIA MILLE — A THOUSAND KISSES]
+
+He was counting something uncountable, and he knew the number was never the point. So now we have the kiss as ape politics, the kiss as clay-tablet law, the kiss as Roman vocabulary, the kiss as Roman math. And at this point, you might be thinking — fine, it's ancient, it's everywhere, it's universal, case closed. But that's exactly the moment the story turns. Because there's a study. And it found something nobody expected.
 
 [ON-SCREEN: WAIT TILL YOU HEAR THIS.]
 
@@ -110,7 +110,7 @@ Now jump four centuries, to a theater in New York. It's 1896, and Thomas Edison'
 
 The first kiss ever captured on film almost ended film. Newspapers called it "absolutely disgusting." One critic wrote that the spectacle of the prolonged pasturing on each other's lips was beastly enough on stage, but magnified to gargantuan proportions it was worse. The Catholic Church demanded censorship. Cities threatened police action against theaters that showed it. An 18-second peck on the lips, in 1896, was treated the way we'd treat something genuinely dangerous. Because this is the pattern, and it runs through the entire history of the kiss. Every time the kiss becomes visible to too many people at once, someone panics. The private kiss is poetry. The public kiss is a scandal.
 
-And then, the last twist in this story — the name. You know the term. The French kiss. Here's what nobody tells you about it. The French did not invent it. They didn't even have a word for it. The Kama Sutra was describing kisses with tongues eighteen hundred years before anyone called them French. The term was invented by American and British soldiers returning from France after the First World War — they'd watched French couples kiss openly, in the street, in daylight, the way their own countries reserved for locked doors, and they brought the label home with them. The French themselves had to borrow the concept back. As late as 2014, the dictionary Le Petit Robert officially added a verb for it — galocher, to kiss with tongues — because the language that supposedly invented the thing never bothered to name it. The kiss has never been about nations. It's just that every nation that sees it done openly assumes some other nation must have started it.
+And then, the last twist in this story — the name. You know the term. The French kiss. Here's what nobody tells you about it. The French did not invent it. They didn't even have a word for it. Roman poets were writing manuals and love poems about kissing twenty centuries before anyone called it French. The term was invented by American and British soldiers returning from France after the First World War — they'd watched French couples kiss openly, in the street, in daylight, the way their own countries reserved for locked doors, and they brought the label home with them. The French themselves had to borrow the concept back. As late as 2014, the dictionary Le Petit Robert officially added a verb for it — galocher, to kiss with tongues — because the language that supposedly invented the thing never bothered to name it. The kiss has never been about nations. It's just that every nation that sees it done openly assumes some other nation must have started it.
 
 [ON-SCREEN: "FRENCH KISS" — INVENTED BY AMERICAN SOLDIERS · 2014: GALOCHER]
 
@@ -162,7 +162,7 @@ Twice as many people turn their heads to the right as to the left. About 65 perc
 
 ## THE ENDING
 
-So here's where the story actually lands. And remember the morning you started with. You kissed someone. You didn't think. You tilted right, because a version of you from before you were born decided that. Your lips did what lips evolved to do — they opened a channel between two nervous systems. And inside that channel was everything. The end of a grooming session between furred apes, millions of years back. A peace treaty between two chimpanzees who chose allies over enemies. A trembling lower lip pressed into clay in a city called Sippar, 3,800 years ago. A woman in Larsa swearing under oath that a man would never kiss her lips again. A chapter in the Kama Sutra, cataloguing kisses the way an astronomer catalogues stars. A Roman counting his three words for one act. A German neuroscientist counting head tilts in an airport. And the 46 percent — the half of humanity that watched all of this and said, no thanks, we'll do something else with our mouths.
+So here's where the story actually lands. And remember the morning you started with. You kissed someone. You didn't think. You tilted right, because a version of you from before you were born decided that. Your lips did what lips evolved to do — they opened a channel between two nervous systems. And inside that channel was everything. The end of a grooming session between furred apes, millions of years back. A peace treaty between two chimpanzees who chose allies over enemies. A trembling lower lip pressed into clay in a city called Sippar, 3,800 years ago. A woman in Larsa swearing under oath that a man would never kiss her lips again. A Roman with three words for one act. A poet counting kisses by the thousand. A German neuroscientist counting head tilts in an airport. And the 46 percent — the half of humanity that watched all of this and said, no thanks, we'll do something else with our mouths.
 
 [ON-SCREEN: EVERYTHING IS IN THE KISS]
 
@@ -178,13 +178,13 @@ And that's why nobody can remember their first kiss properly. Because it wasn't 
 
 **When Did Humans Start Kissing? And Why?**
 
-The answer goes back further than you'd expect — past Rome, past the Kama Sutra, past the first cities, past humanity itself. The oldest written kiss is 4,500 years old, and it wasn't the first one. This video traces the full history of the kiss — from chimpanzee peace treaties and the "groomer's final kiss" to Babylonian love poems and legal oaths, from Vatsyayana's taxonomy of kisses and a 1439 royal ban on kissing, to an 18-second film that nearly ended cinema and a 2003 study of head tilts in airports. By the end, you might never lean in without thinking again.
+The answer goes back further than you'd expect — past Rome, past Roman love poetry, past the first cities, past humanity itself. The oldest written kiss is 4,500 years old, and it wasn't the first one. This video traces the full history of the kiss — from chimpanzee peace treaties and the "groomer's final kiss" to Babylonian love poems and legal oaths, from Roman kiss manuals and a 1439 royal ban on kissing, to an 18-second film that nearly ended cinema and a 2003 study of head tilts in airports. By the end, you might never lean in without thinking again.
 
 All research and sources are linked below.
 
 📚 RESEARCH & SOURCES:
 
-▸ Arbøll, T.P. & Rasmussen, S.L. — "The ancient history of kissing" (2023, Science) https://doi.org/10.1126/science.adf0512 — cuneiform tablets from Mesopotamia (2500 BCE) push the oldest documented romantic-sexual kiss ~1,000 years earlier than the previous South Asian evidence (~1500 BCE).
+▸ Arbøll, T.P. & Rasmussen, S.L. — "The ancient history of kissing" (2023, Science) https://doi.org/10.1126/science.adf0512 — cuneiform tablets from Mesopotamia (2500 BCE) push the oldest documented romantic-sexual kiss ~1,000 years earlier than the previous bronze-age evidence (~1500 BCE).
 
 ▸ Jankowiak, W.R., Volsche, S.L. & Garcia, J.R. — "Is the Romantic–Sexual Kiss a Near Human Universal?" (2015, American Anthropologist 117(3):535–539) https://doi.org/10.1111/aman.12286 — across 168 cultures, the romantic-sexual kiss appears in only 46%; frequency correlates with social complexity.
 
@@ -194,7 +194,9 @@ All research and sources are linked below.
 
 ▸ de Waal, F.B.M. — chimpanzee post-conflict kissing and embracing as reconciliation (see "Peacemaking among Primates", 1989, Harvard University Press).
 
-▸ Vatsyayana — "Kama Sutra" (~3rd century CE), chapter "On Kissing": nominal/throbbing/touching kisses; straight/bent/turned/pressed kisses (Burton translation, Wikisource).
+▸ Ovid — "Ars Amatoria" (The Art of Love, ~2 BCE) — three-book Latin manual of seduction with technical advice on kissing (trans. A.S. Kline, Poetry in Translation).
+
+▸ Catullus — "Poem 5" (~1st century BCE) — the "basia mille" kiss poem: "give me a thousand kisses, then a hundred, then another thousand…" (trans. A.S. Kline, Poetry in Translation).
 
 ▸ Wasserman, N. — "Akkadian Love Literature of the Third and Second Millennium BCE" (2016, Harrassowitz) — source of the Sippar love poem ("My upper lip becomes moist…") and the Larsa legal oath.
 
@@ -216,9 +218,11 @@ PEOPLE MENTIONED IN THIS VIDEO:
 
 ▸ Frans de Waal — Primatologist whose fieldwork documented chimpanzee kissing and embracing as post-conflict reconciliation.
 
+▸ Ovid & Catullus — Roman poets of the 1st century BCE. Ovid's Ars Amatoria turned kissing into a teachable craft; Catullus' "thousand kisses" poem made it literary math.
+
 🎨 Animation by [your channel]
 
-#ancienthistory #kissing #history #kiss #humanhistory #anthropology #kamasutra #mesopotamia #evolution #explainer #animation #education #psychology #love #prehistory
+#ancienthistory #kissing #history #kiss #humanhistory #anthropology #rome #mesopotamia #evolution #explainer #animation #education #psychology #love #prehistory
 
 ---
 
@@ -226,14 +230,14 @@ PEOPLE MENTIONED IN THIS VIDEO:
 
 | Section | Words | ~Time @415wpm |
 |---|---|---|
-| Cold open | 290 | 0:42 |
-| Part 1 — apes & groomer's final kiss | 723 | 1:45 |
-| Part 2 — Mesopotamia, first written kiss | 640 | 1:33 |
-| Part 3 — Kama Sutra & Rome | 428 | 1:02 |
-| Part 4 — the kiss goes public (1439 · 1896 · "French kiss") | 555 | 1:20 |
+| Cold open | 0 | 0:00 |
+| Part 1 — apes & groomer's final kiss | 723 | 1:44 |
+| Part 2 — Mesopotamia, first written kiss | 635 | 1:31 |
+| Part 3 — Rome: three words · Ovid · Catullus | 387 | 0:55 |
+| Part 4 — the kiss goes public (1439 · 1896 · "French kiss") | 556 | 1:20 |
 | Part 5 — the 46% twist | 478 | 1:09 |
 | Part 6 — chemistry & head-tilt | 403 | 0:58 |
-| Ending | 306 | 0:44 |
-| **TOTAL narration** | **~3,823** | **~9:13–10:05** |
+| Ending | 298 | 0:43 |
+| **TOTAL narration** | **~3,480** | **~8:23** |
 
-*Pace range: 415 wpm → 9.2 min · 400 wpm → 9.6 min · 380 wpm → 10.1 min (channel range is 379–449 wpm, so at channel pace this is a 10-minute video). Questions: ~14 · scene-painting beats at Part 1, 2, 6 · full-circle callback: opening "you kissed this morning" → ending "the groomer's final kiss"*
+*Pace range: 415 wpm → 8.4 min · 400 wpm → 8.7 min · 380 wpm → 9.2 min (channel range is 379–449 wpm). Questions: 8 · scene-painting beats at Part 1, 2, 3 · full-circle callback: opening "you kissed this morning" → ending "the groomer's final kiss"*
