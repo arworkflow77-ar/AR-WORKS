@@ -96,7 +96,27 @@ So now we have the kiss as ape politics, the kiss as clay-tablet law, the kiss a
 
 ---
 
-## PART 4 — THE KISS THAT NEVER HAPPENED
+## PART 4 — THE KISS GOES PUBLIC
+
+So the kiss is old. But watch what happens when it meets crowds, because this is where it nearly gets itself banned. And if you want to understand why people get so emotional about kissing — why your parents looked away, why a screen kiss makes a theater go quiet — this is the part of the story that explains it.
+
+[ON-SCREEN: 16 JULY 1439]
+
+England, 1439. Plague is moving through the country again, and the king does something that sounds like a joke but is completely real. Henry the Sixth officially bans kissing. A royal proclamation, dated the 16th of July, forbids the practice to stop the spread of pestilence. And before you laugh, understand the logic. In the 15th century, kissing was not a private romantic act. It was infrastructure. Knights kissed the king on the mouth as an oath of loyalty. Parishioners kissed each other in greeting. Servants kissed their master's ring. A medieval court ran on kisses the way a modern office runs on handshakes — and if you wanted to protect the king from a disease, you had to shut the whole system down. The ban did not last, of course. It dissolved, in the words of one chronicler, into lip-service. But the fact that a government once tried to ban kissing tells you how public the act used to be.
+
+Now jump four centuries, to a theater in New York. It's 1896, and Thomas Edison's studio has just made an 18-second film called, simply, The Kiss. It shows a man and a woman — actors from a stage musical — nuzzling, then kissing on the lips. Eighteen seconds. Close-up.
+
+[ON-SCREEN: 1896 · THE KISS · 18 SECONDS]
+
+The first kiss ever captured on film almost ended film. Newspapers called it "absolutely disgusting." One critic wrote that the spectacle of the prolonged pasturing on each other's lips was beastly enough on stage, but magnified to gargantuan proportions it was worse. The Catholic Church demanded censorship. Cities threatened police action against theaters that showed it. An 18-second peck on the lips, in 1896, was treated the way we'd treat something genuinely dangerous. Because this is the pattern, and it runs through the entire history of the kiss. Every time the kiss becomes visible to too many people at once, someone panics. The private kiss is poetry. The public kiss is a scandal.
+
+And then, the last twist in this story — the name. You know the term. The French kiss. Here's what nobody tells you about it. The French did not invent it. They didn't even have a word for it. The Kama Sutra was describing kisses with tongues eighteen hundred years before anyone called them French. The term was invented by American and British soldiers returning from France after the First World War — they'd watched French couples kiss openly, in the street, in daylight, the way their own countries reserved for locked doors, and they brought the label home with them. The French themselves had to borrow the concept back. As late as 2014, the dictionary Le Petit Robert officially added a verb for it — galocher, to kiss with tongues — because the language that supposedly invented the thing never bothered to name it. The kiss has never been about nations. It's just that every nation that sees it done openly assumes some other nation must have started it.
+
+[ON-SCREEN: "FRENCH KISS" — INVENTED BY AMERICAN SOLDIERS · 2014: GALOCHER]
+
+---
+
+## PART 5 — THE KISS THAT NEVER HAPPENED
 
 In 2015, three anthropologists — William Jankowiak, Shelly Volsche, and Justin Garcia — decided to test the most basic assumption in the entire history of this subject. The assumption that the romantic kiss is a human universal. They took a database of world cultures, 168 of them, and they checked each one for a simple thing. Does this culture kiss romantically? Lip to lip, as part of love or sex?
 
@@ -120,7 +140,7 @@ Because of what it does to your body. And here's where the science gets almost u
 
 ---
 
-## PART 5 — THE CHEMISTRY OF A KISS
+## PART 6 — THE CHEMISTRY OF A KISS
 
 Your lips are a scandal of engineering. They are packed with nerve endings — denser than your fingertips — and they don't have the protection your fingertips have. They're thin-skinned, wet, warm, and wired directly into the oldest, most emotional parts of your brain. When lips meet, your body gets flooded with information at a bandwidth nothing else matches. Taste, texture, temperature, breath, pressure, motion — all of it arriving at once. Scientists have a word for the study of kissing. Philematology. It's real. There are researchers whose entire career is this moment.
 
@@ -158,7 +178,7 @@ And that's why nobody can remember their first kiss properly. Because it wasn't 
 
 **When Did Humans Start Kissing? And Why?**
 
-The answer goes back further than you'd expect — past Rome, past the Kama Sutra, past the first cities, past humanity itself. The oldest written kiss is 4,500 years old, and it wasn't the first one. This video traces the full history of the kiss — from chimpanzee peace treaties and the "groomer's final kiss" to Babylonian love poems and legal oaths, from Vatsyayana's taxonomy of kisses to a 2003 study of head tilts in airports. By the end, you might never lean in without thinking again.
+The answer goes back further than you'd expect — past Rome, past the Kama Sutra, past the first cities, past humanity itself. The oldest written kiss is 4,500 years old, and it wasn't the first one. This video traces the full history of the kiss — from chimpanzee peace treaties and the "groomer's final kiss" to Babylonian love poems and legal oaths, from Vatsyayana's taxonomy of kisses and a 1439 royal ban on kissing, to an 18-second film that nearly ended cinema and a 2003 study of head tilts in airports. By the end, you might never lean in without thinking again.
 
 All research and sources are linked below.
 
@@ -177,6 +197,12 @@ All research and sources are linked below.
 ▸ Vatsyayana — "Kama Sutra" (~3rd century CE), chapter "On Kissing": nominal/throbbing/touching kisses; straight/bent/turned/pressed kisses (Burton translation, Wikisource).
 
 ▸ Wasserman, N. — "Akkadian Love Literature of the Third and Second Millennium BCE" (2016, Harrassowitz) — source of the Sippar love poem ("My upper lip becomes moist…") and the Larsa legal oath.
+
+▸ Henry VI kissing ban — royal proclamation of 16 July 1439, forbidding kissing during a plague outbreak (English royal records; the ban aimed to protect the king, whom knights greeted with a kiss on the mouth).
+
+▸ Edison's "The Kiss" (1896) — directed by William Heise for the Edison studio; an 18-second film of May Irwin and John Rice reenacting the kiss from the stage musical "The Widow Jones" — the first kiss on film, widely denounced as obscene.
+
+▸ "Galocher" — Le Petit Robert (2014): the first French dictionary entry for "to kiss with tongues", added decades after English coined "French kiss".
 
 PEOPLE MENTIONED IN THIS VIDEO:
 
@@ -198,15 +224,16 @@ PEOPLE MENTIONED IN THIS VIDEO:
 
 ## TIMING BUDGET (channel-verified)
 
-| Section | Words | ~Time |
+| Section | Words | ~Time @415wpm |
 |---|---|---|
 | Cold open | 290 | 0:42 |
-| Part 1 — apes & groomer's final kiss | 850 | 2:03 |
-| Part 2 — Mesopotamia, first written kiss | 800 | 1:56 |
-| Part 3 — Kama Sutra & Rome | 620 | 1:30 |
-| Part 4 — the 46% twist | 720 | 1:44 |
-| Part 5 — chemistry & head-tilt | 560 | 1:21 |
-| Ending | 420 | 1:01 |
-| **TOTAL** | **~4,260** | **~10:17** |
+| Part 1 — apes & groomer's final kiss | 723 | 1:45 |
+| Part 2 — Mesopotamia, first written kiss | 640 | 1:33 |
+| Part 3 — Kama Sutra & Rome | 428 | 1:02 |
+| Part 4 — the kiss goes public (1439 · 1896 · "French kiss") | 555 | 1:20 |
+| Part 5 — the 46% twist | 478 | 1:09 |
+| Part 6 — chemistry & head-tilt | 403 | 0:58 |
+| Ending | 306 | 0:44 |
+| **TOTAL narration** | **~3,823** | **~9:13–10:05** |
 
-*Pace target: 415 wpm (channel average 379–449) · questions: ~14 · scene-painting beats at Part 1, 2, 5 · full-circle callback: opening "you kissed this morning" → ending "the groomer's final kiss"*
+*Pace range: 415 wpm → 9.2 min · 400 wpm → 9.6 min · 380 wpm → 10.1 min (channel range is 379–449 wpm, so at channel pace this is a 10-minute video). Questions: ~14 · scene-painting beats at Part 1, 2, 6 · full-circle callback: opening "you kissed this morning" → ending "the groomer's final kiss"*
