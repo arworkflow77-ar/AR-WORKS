@@ -1,4 +1,3 @@
 # Folders that live ONLY on GitHub after sync.sh pushes them.
 # One per line, no trailing slash. sync.sh evicts them after every push.
 # restore.sh <folder> brings one back temporarily (R7).
-assets-test
