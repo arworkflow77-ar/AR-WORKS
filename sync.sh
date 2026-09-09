@@ -9,6 +9,14 @@ cd "$ROOT" || exit 1
 BRANCH="$(git symbolic-ref -q --short HEAD 2>/dev/null || true)"
 [ -z "$BRANCH" ] && BRANCH="main"
 
+# ---- -1. preflight: self-heal repo config lost across sandbox restores ----
+git remote get-url origin >/dev/null 2>&1 || git remote add origin https://github.com/arworkflow77-ar/AR-WORKS.git
+git config remote.origin.promisor true
+git config remote.origin.partialclonefilter blob:none
+git config remote.origin.fetch "+refs/heads/main:refs/remotes/origin/main"
+git config credential.helper store
+[ -f "$HOME/.git-credentials" ] || echo "sync.sh: warn — ~/.git-credentials missing (auth needed for push)" >&2
+
 # ---- 0. one sync at a time (prevents two syncs corrupting each other) ----
 if command -v flock >/dev/null 2>&1; then
   exec 9>/tmp/sync.lock
