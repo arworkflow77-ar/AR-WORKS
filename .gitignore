@@ -1,0 +1,25 @@
+# secrets — never commit
+.git-credentials
+.netrc
+.env
+*.token
+
+# caches / build junk — never commit, never keep (R5)
+.cache/
+.local/
+.npm/
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+out/
+target/
+.next/
+.vite/
+.turbo/
+coverage/
+*.pyc
+.DS_Store
