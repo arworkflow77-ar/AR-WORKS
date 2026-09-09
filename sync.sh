@@ -15,7 +15,11 @@ git config remote.origin.promisor true
 git config remote.origin.partialclonefilter blob:none
 git config remote.origin.fetch "+refs/heads/main:refs/remotes/origin/main"
 git config credential.helper store
-[ -f "$HOME/.git-credentials" ] || echo "sync.sh: warn — ~/.git-credentials missing (auth needed for push)" >&2
+if [ ! -f "$HOME/.git-credentials" ] && [ -f "$ROOT/.token" ]; then
+  printf 'https://arworkflow77-ar:%s@github.com\n' "$(cat "$ROOT/.token")" > "$HOME/.git-credentials"
+  chmod 600 "$HOME/.git-credentials"
+  echo "sync.sh: restored ~/.git-credentials from .token (sandbox reset)"
+fi
 
 # ---- 0. one sync at a time (prevents two syncs corrupting each other) ----
 if command -v flock >/dev/null 2>&1; then
