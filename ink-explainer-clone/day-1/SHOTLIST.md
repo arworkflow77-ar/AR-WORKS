@@ -4,7 +4,7 @@
 
 ## 🔒 LOCKED SHARED PREFIX (har image prompt ka fixed hissa — kabhi change nahi hoga)
 
-> `hand-drawn 2D animation, clean bold ink outlines, flat cel-shaded color fills, simple shapes, limited palette, TV-anime/cartoon look, crisp vector-like edges, no photoreal texture. FIVE digits on every visible hand: four fingers plus one thumb, never fused. NO on-screen text unless the prompt explicitly says TEXT: '...'. Wide 16:9 cinematic composition, 2k quality.`
+> `soft flat 2D vector illustration, smooth soft edges with no harsh black outlines, muted warm earthy palette using taupe brown #806d56, dark umber #433a32, ochre #c8a972, cream #e6e0d1 and off-white #ffffff with a soft pale blue #b9d9de accent, low saturation muted tones, bright airy lighting, light cream background with generous negative space, simple rounded stylized shapes, minimal facial features with small dot eyes, soft cel shading with gentle gradients, clean minimal composition, no photoreal texture, no anime style, no bold cartoon outlines. FIVE digits on every visible hand: four fingers plus one thumb, never fused. NO on-screen text unless the prompt explicitly says TEXT: '...'. Wide 16:9 cinematic composition, 2k quality.`
 
 **Full prompt = LOCKED PREFIX + Scene prompt (neeche ka column). Koi bhi shot regenerate karna ho → wahi exact full prompt reuse hoga (PROMPT LOCK).**
 
