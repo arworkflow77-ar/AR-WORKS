@@ -12,3 +12,4 @@ heavy files (images, audio, video) are pushed here and evicted locally.
 - `./status.sh` — workspace meter.
 - `.heavy` — folders kept on GitHub only.
 - Local clone is partial/blobless: `git clone --depth=1 --filter=blob:none https://github.com/arworkflow77-ar/AR-WORKS`
+- 2026-09-09 06:19 session health-check: all green
